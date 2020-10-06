@@ -1,4 +1,4 @@
-# Logistic_Regression_Binary_Classification_Gradient_Descent
-This is my machine learning class homework.
-The original Dataset contains two features, however, you can adjust the feature numbers by setting the thePower value in my script
+# Logistic_Regression_Binary_Classification_Gradient_Descent\n
+This is my machine learning class homework.\n
+The original Dataset contains two features, however, you can adjust the feature numbers by setting the thePower value in my script\n
 Tell me your lumbda value in scaling and your alphafinal of your F1 value is larger than mine 0.83
